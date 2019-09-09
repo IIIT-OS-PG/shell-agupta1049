@@ -1,0 +1,11 @@
+total 128
+-rw-rw-r-- 1 ankit ankit  3112 Sep  9 01:03 abcd.c
+-rw-r--r-- 1 ankit ankit    28 Aug 31 21:45 abc.txt
+-rwxr-xr-x 1 ankit ankit  8608 Sep  8 20:19 BtreeImpl
+-rw-rw-r-- 1 ankit ankit  3108 Sep  9 00:56 BtreeImpl_1.c
+-rw-rw-r-- 1 ankit ankit  1712 Sep  8 20:19 BtreeImpl.c
+-rw-r--r-- 1 ankit ankit     0 Sep 10 00:59 mauu.txt
+-rw------- 1 ankit ankit 76952 Sep  4 09:28 OS-PG-Assignment-1.pdf
+-rwxr-xr-x 1 ankit ankit 13328 Sep 10 00:58 Shell
+-rw-rw-r-- 1 ankit ankit  3035 Sep  8 18:43 Shell.c
+-rw-r--r-- 1 ankit ankit   395 Sep  8 16:13 TEMP1.txt
